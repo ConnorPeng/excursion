@@ -19,6 +19,8 @@ body {
 }
 
 .header--sub-header {
+  color: grey;
+  font-size: 21px;
 }
 
 /*  LINKS */
